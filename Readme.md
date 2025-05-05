@@ -5,3 +5,5 @@ git status
 git add E O NOME DO ARQUIVO
 git commit -m "A MENSAGEM DO COMMIT A SER EXIBIDA"
 git push
+
+depois de ter criado outra pasta vou refazer todos esses passos pra ver o resultado
